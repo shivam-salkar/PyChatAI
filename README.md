@@ -9,6 +9,8 @@
 - A clean and minimalistic GUI using **CustomTkinter**
 - AI-powered chat via **Groq API** (`compund-beta` model)
 - Stores the history locally using JSON.
+- Dark and Light color theme
+- Screen Reader(TTS) mode
 
 ---
 
