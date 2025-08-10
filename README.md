@@ -17,6 +17,27 @@
 ##  How to Use
 
 1. **Clone the repository**
-   ```bash
+   ```terminal
    git clone https://github.com/shivam-salkar/PyChatAI.git
    cd PyChatAI
+
+2. **Install Libraries**
+    ```terminal
+    pip install pillow customtkinter groq pyttsx3 dotenv playsound
+
+3. **Add API key**
+    ```terminal
+    GROQ_API_KEY=your_api_key_here
+4. **Run the app**
+    ```terminal
+    python main.py
+
+## Why I Built This
+
+- To explore GUI programming in Python using CustomTkinter also design using Figma
+
+- To understand how APIs work, LLMS and services like Groq
+
+- To experiment with event handling and basic app structure in Python
+
+
