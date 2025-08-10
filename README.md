@@ -3,7 +3,10 @@
 **PyChatAI** is a simple desktop chat application built with **Python** and **CustomTkinter**, designed as a beginner-friendly learning project. It connects with the **Groq API** and uses the `compund-beta` AI model to generate responses to user input.
 
 ---
+![Alt Text](assets/github/dark.png)
+![Alt Text](assets/github/light.png)
 
+---
 ##  What’s Inside
 
 - A clean and minimalistic GUI using **CustomTkinter**
