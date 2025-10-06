@@ -1,7 +1,7 @@
 # groq_client.py
-from groq import Groq
-import dotenv
-import pyttsx3
+from groq import Groq # type: ignore
+import dotenv # type: ignore
+import pyttsx3 # type: ignore
 
 dotenv.load_dotenv()
 client = Groq()
